@@ -1,0 +1,11 @@
+.claude/
+.code-review-graph/
+
+*.test
+*.prof
+*.out
+coverage.*
+
+.idea/
+.vscode/
+.DS_Store
